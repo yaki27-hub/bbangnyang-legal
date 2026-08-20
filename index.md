@@ -4,4 +4,4 @@
 
 - [개인정보 처리방침](privacy.html)
 
-문의: yaki27@gmail.com
+문의: thingnyang@gmail.com

@@ -46,4 +46,4 @@ HealthKit을 사용하지 않고, 수면 데이터를 만들거나 읽지 않습
 
 ## 문의
 
-yaki27@gmail.com
+thingnyang@gmail.com
